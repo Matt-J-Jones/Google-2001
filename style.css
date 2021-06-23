@@ -1,0 +1,35 @@
+body 
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav
+{
+    width: 400px;
+}
+
+.links
+{
+    color: blue;
+}
+
+.greentext
+{
+    color: green;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-text
+{
+    color: blue;
+    text-align: left;
+    font-size: x-small;
+    text-decoration: underline;
+}
